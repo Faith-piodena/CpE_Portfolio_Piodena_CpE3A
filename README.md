@@ -1,7 +1,9 @@
 # CpE_Portfolio_Piodena_Section
 # 🌸 Jelyn Faith Almorato Piodena Portfolio
 
-**COMPUTER ENGINEERING STUDENT | CE3A**
+<span style="background-color:#6a0dad; color:white; padding:6px 12px; border-radius:6px; font-weight:bold;">
+Bachelor of Science in Computer Engineering – CE3A
+</span>
 
 Portfolio Repository for Projects, Activities, Documentation, and Creative Work
 
@@ -13,7 +15,9 @@ Portfolio Repository for Projects, Activities, Documentation, and Creative Work
 Jelyn Faith Almorato Piodena
 
 **Course & Section**  
-Bachelor of Science in Computer Engineering – CE3A
+<span style="background-color:#b57edc; color:white; padding:6px 12px; border-radius:6px;">
+Computer Engineering Student | CE3A
+</span>
 
 **About Me**  
 Hello! I am Jelyn Faith Almorato Piodena, a Computer Engineering student passionate about creating interactive and innovative systems that blend creativity with technology.  
@@ -37,12 +41,6 @@ My interests include UI/UX design, web development, and immersive digital experi
 | **Student Portal System** | A web‑based system for managing student records and announcements. | HTML, CSS, JS, PHP |
 | **Fantasy UI Prototype** | A creative interface inspired by fantasy themes and interactive storytelling. | Figma, Adobe XD |
 | **Network Security Lab** | Simulated penetration testing and network analysis using Kali Linux. | Nmap, Wireshark, Medusa |
-
----
-
-## 📜 Documentation & Creative Work
-
-This section includes research papers, activity reports, and creative outputs that demonstrate my growth as a Computer Engineering student.
 
 ---
 
