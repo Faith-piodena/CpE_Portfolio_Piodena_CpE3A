@@ -36,8 +36,6 @@ This work demonstrates the use of basic digital components to design and integra
 ### Description
 In this project, we constructed a logic unit circuit using fundamental logic gates. We began by designing a 2-to-4 decoder, followed by implementing a 4-to-1 line multiplexer. Finally, we integrated these components to develop a complete logic unit circuit.
 <img width="813" height="1079" alt="Screenshot 2026-05-26 223748" src="https://github.com/user-attachments/assets/840db5bc-744e-4c54-8c45-7063811d0c33" /> 
-<img width="813" height="1079" alt="Screenshot 2026-05-26 223609" src="https://github.com/user-attachments/assets/76ecc695-d205-45aa-b700-9798840f5b81" />
-<img width="705" height="364" alt="Screenshot 2026-05-26 232118" src="https://github.com/user-attachments/assets/dd98a57b-9d3b-4bba-a3ca-a76d26ec75c1" />
 
 ### Technology Used
 ```text
@@ -61,7 +59,6 @@ Resistors
 ### Description
 This project demonstrates the design of an Arithmetic Logic Unit, a core digital system component that performs basic arithmetic and logical operations within a single circuit.
 <img width="1304" height="687" alt="image" src="https://github.com/user-attachments/assets/7dbd2a6f-dbf1-416e-a724-b6fe89452c26" />
-<img width="833" height="465" alt="Screenshot 2026-05-26 230019" src="https://github.com/user-attachments/assets/85ca2a95-d0b2-4d48-9d89-f7aa44068422" />
 
 ### Technology Used
 ```text
@@ -85,7 +82,6 @@ Resistors
 ### Description
 This app was developed to help tourists easily access information and explore the various destinations and attractions in Puerto Princesa City.
 <img width="1333" height="1999" alt="Beautiful Natural Sunset Aesthetics Mood Photo Collage" src="https://github.com/user-attachments/assets/c9ce66e6-cacc-4ba6-bd57-75d682625612" />
-<img width="2000" height="1600" alt="Beige Minimalist Mood Photo Collage" src="https://github.com/user-attachments/assets/dee2f2e6-3bc9-41ef-acc8-2fddc198340d" />
 
 ### Technology Used
 ```text
@@ -102,8 +98,6 @@ Drive
 ### Description
 Unauthorized server access means taking advantage of system weaknesses to gain entry into data or resources. In cybersecurity, this is examined through ethical hacking and penetration testing to identify risks and improve protection.
 <img width="1916" height="1018" alt="Screenshot 2026-05-25 195949" src="https://github.com/user-attachments/assets/69975613-4ce6-4dc6-896d-852b443d7e14" />
-<img width="1919" height="1016" alt="Screenshot 2026-05-25 201709" src="https://github.com/user-attachments/assets/49a7b951-b20b-43cf-8d28-474fc29b5df6" />
-<img width="1919" height="1015" alt="Screenshot 2026-05-25 200130" src="https://github.com/user-attachments/assets/70ecd6e1-08a8-476b-9ac8-ccc84c9842e7" />
 
 ### Technology Used
 ```text
