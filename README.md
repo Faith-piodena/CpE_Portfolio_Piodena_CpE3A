@@ -2,19 +2,22 @@
 
 **🎓 Bachelor of Science in Computer Engineering – CE3A**
 
-![CE3A Badge](https://img.shields.io/badge/Computer%20Engineering%20Student-CE3A-c084fc?style=for-the-badge&logo=github&logoColor=white)
+![CE3A Badge](https://img.shields.io/badge/Computer%20Engineering%20Student-CE3A-c084fc?style=for-the-badge&logo=github&logoColor=blue)
 
 Portfolio Repository for Projects, Activities, Documentation, and Creative Work
 
 ---
 
-## 💻 Personal Information
+## 🖤 Personal Information
 
 **Full Name**  
 Jelyn Faith Almorato Piodena
 
+**Age**  
+21 Years old
+
 **Course & Section**  
-![Course Badge](https://img.shields.io/badge/Computer%20Engineering%20Student-CE3A-a855f7?style=for-the-badge&logo=academia&logoColor=white)
+![Course Badge](https://img.shields.io/badge/Computer%20Engineering%20Student-CE3A-a855f7?style=for-the-badge&logo=github&logoColor=blue)
 
 **About Me**  
 Hello! I am Jelyn Faith Almorato Piodena, a Computer Engineering student passionate about creating interactive and innovative systems that blend creativity with technology.  
@@ -22,7 +25,7 @@ My interests include UI/UX design, web development, and immersive digital experi
 
 ---
 
-## 🛠️ Skills & Technologies
+## 💻 Skills & Technologies
 
 - **Programming Languages:** Python, Java, C++, HTML, CSS, JavaScript  
 - **Frameworks & Tools:** React, Node.js, Bootstrap, GitHub, Visual Studio Code  
@@ -43,6 +46,6 @@ My interests include UI/UX design, web development, and immersive digital experi
 
 ## 💬 Contact
 
-📧 Email: jelynfaithpiodena@example.com  
+📧 Email: faithpiodena875@gmail.com  
 🌐 GitHub: github.com/jelynfaithpiodena  
 📍 Location: Puerto Princesa, Palawan, Philippines
