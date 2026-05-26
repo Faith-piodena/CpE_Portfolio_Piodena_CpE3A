@@ -1,23 +1,20 @@
-# CpE_Portfolio_Piodena_Section
 # 🌸 Jelyn Faith Almorato Piodena Portfolio
 
-<span style="background-color:#6a0dad; color:white; padding:6px 12px; border-radius:6px; font-weight:bold;">
-Bachelor of Science in Computer Engineering – CE3A
-</span>
+**🎓 Bachelor of Science in Computer Engineering – CE3A**
+
+> 🟣 **Computer Engineering Student | CE3A**
 
 Portfolio Repository for Projects, Activities, Documentation, and Creative Work
 
 ---
 
-## 👩‍💻 Personal Information
+## 💻 Personal Information
 
 **Full Name**  
 Jelyn Faith Almorato Piodena
 
 **Course & Section**  
-<span style="background-color:#b57edc; color:white; padding:6px 12px; border-radius:6px;">
-Computer Engineering Student | CE3A
-</span>
+🟪 **Computer Engineering Student | CE3A**
 
 **About Me**  
 Hello! I am Jelyn Faith Almorato Piodena, a Computer Engineering student passionate about creating interactive and innovative systems that blend creativity with technology.  
