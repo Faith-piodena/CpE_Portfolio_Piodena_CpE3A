@@ -2,7 +2,9 @@
 
 **🎓 Bachelor of Science in Computer Engineering – CE3A**
 
-> 🟣 **Computer Engineering Student | CE3A**
+> <span style="background-color:#e9d5ff; color:#6b21a8; padding:6px 12px; border-radius:10px; font-weight:bold;">
+🌸 Computer Engineering Student | CE3A
+</span>
 
 Portfolio Repository for Projects, Activities, Documentation, and Creative Work
 
@@ -14,11 +16,13 @@ Portfolio Repository for Projects, Activities, Documentation, and Creative Work
 Jelyn Faith Almorato Piodena
 
 **Course & Section**  
-🟪 **Computer Engineering Student | CE3A**
+<span style="background-color:#c084fc; color:white; padding:6px 12px; border-radius:10px; font-weight:bold;">
+💜 Computer Engineering Student | CE3A
+</span>
 
 **About Me**  
 Hello! I am Jelyn Faith Almorato Piodena, a Computer Engineering student passionate about creating interactive and innovative systems that blend creativity with technology.  
-My interests include UI/UX design, web development, and immersive digital experiences. Most of my projects revolve around academic work, student‑centered systems, and fantasy‑inspired interfaces that encourage exploration and imagination.
+My interests include UI/UX design, web development, and immersive digital experiences. Most of my projects revolve around academic work, student-centered systems, and fantasy-inspired interfaces that encourage exploration and imagination.
 
 ---
 
@@ -35,7 +39,7 @@ My interests include UI/UX design, web development, and immersive digital experi
 
 | Project Title | Description | Tools Used |
 |----------------|--------------|-------------|
-| **Student Portal System** | A web‑based system for managing student records and announcements. | HTML, CSS, JS, PHP |
+| **Student Portal System** | A web-based system for managing student records and announcements. | HTML, CSS, JS, PHP |
 | **Fantasy UI Prototype** | A creative interface inspired by fantasy themes and interactive storytelling. | Figma, Adobe XD |
 | **Network Security Lab** | Simulated penetration testing and network analysis using Kali Linux. | Nmap, Wireshark, Medusa |
 
@@ -44,5 +48,5 @@ My interests include UI/UX design, web development, and immersive digital experi
 ## 💬 Contact
 
 📧 Email: jelynfaithpiodena@example.com  
-🌐 GitHub: [github.com/jelynfaithpiodena](https://github.com/jelynfaithpiodena)  
+🌐 GitHub: github.com/jelynfaithpiodena  
 📍 Location: Puerto Princesa, Palawan, Philippines
