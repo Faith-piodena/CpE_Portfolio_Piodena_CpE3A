@@ -1,14 +1,9 @@
-# 🌸 Jelyn Faith Almorato Piodena Portfolio
-
-**🎓 Bachelor of Science in Computer Engineering – CE3A**
-
-![CE3A Badge](https://img.shields.io/badge/Computer%20Engineering%20Student-CE3A-c084fc?style=for-the-badge&logo=github&logoColor=blue)
-
-Portfolio Repository for Projects, Activities, Documentation, and Creative Work
+# Jelyn Faith Almorato Piodena Portfolio
+![Course Badge](https://img.shields.io/badge/Computer%20Engineering%20Student-CE3A-a855f7?style=for-the-badge&logo=github&logoColor=blue)
 
 ---
 
-## 🖤 Personal Information
+## Personal Information
 
 **Full Name**  
 Jelyn Faith Almorato Piodena
@@ -16,25 +11,45 @@ Jelyn Faith Almorato Piodena
 **Age**  
 21 Years old
 
-**Course & Section**  
-![Course Badge](https://img.shields.io/badge/Computer%20Engineering%20Student-CE3A-a855f7?style=for-the-badge&logo=github&logoColor=blue)
-
-**About Me**  
-Hello! I am Jelyn Faith Almorato Piodena, a Computer Engineering student passionate about creating interactive and innovative systems that blend creativity with technology.  
-My interests include UI/UX design, web development, and immersive digital experiences. Most of my projects revolve around academic work, student-centered systems, and fantasy-inspired interfaces that encourage exploration and imagination.
+**About Me**    
+Hello! I am Jelyn Faith Almorato Piodena, a third-year Computer Engineering student passionate about creating systems that integrate software development with hardware design. My academic projects focus on programming, digital circuit design, and building hardware prototypes using breadboards and electronic components. I enjoy combining technical problem-solving with creativity, producing practical solutions and innovative designs that reflect both engineering precision and imaginative exploration.
 
 ---
 
-## 💻 Skills & Technologies
 
-- **Programming Languages:** Python, Java, C++, HTML, CSS, JavaScript  
-- **Frameworks & Tools:** React, Node.js, Bootstrap, GitHub, Visual Studio Code  
+## Skills & Technologies
+
+- **Programming Languages:** Python, Java, C++, HTML  
+- **Frameworks & Tools:** GitHub, Visual Studio Code  
 - **Design & Creativity:** Figma, Canva, Adobe XD  
 - **Other Interests:** Cybersecurity basics, networking, and creative documentation
 
 ---
 
-## 📂 Projects & Activities
+# My Projects
+
+**Description**
+In this project, we constructed a logic unit circuit using fundamental logic gates. We began by designing a 2-to-4 decoder, followed by implementing a 4-to-1 line multiplexer. Finally, we integrated these components to develop a complete logic unit circuit.
+
+##  Components
+
+```text
+Logic IC
+-Not gate
+-Or gate
+-And gate
+-Xor gate
+
+Bulb
+Switch
+Breadboard
+Powersupply
+Resistors
+```
+
+
+
+## Activities
 
 | Project Title | Description | Tools Used |
 |----------------|--------------|-------------|
@@ -44,8 +59,13 @@ My interests include UI/UX design, web development, and immersive digital experi
 
 ---
 
-## 💬 Contact
 
-📧 Email: faithpiodena875@gmail.com  
-🌐 GitHub: github.com/jelynfaithpiodena  
-📍 Location: Puerto Princesa, Palawan, Philippines
+
+
+
+## Contact
+
+Email: faithpiodena875@gmail.com  
+GitHub: github.com/jelynfaithpiodena  
+Location: Puerto Princesa, Palawan, Philippines   
+ Contact Number: 09380968852 
