@@ -2,9 +2,7 @@
 
 **🎓 Bachelor of Science in Computer Engineering – CE3A**
 
-> <span style="background-color:#e9d5ff; color:#6b21a8; padding:6px 12px; border-radius:10px; font-weight:bold;">
-🌸 Computer Engineering Student | CE3A
-</span>
+![CE3A Badge](https://img.shields.io/badge/Computer%20Engineering%20Student-CE3A-c084fc?style=for-the-badge&logo=github&logoColor=white)
 
 Portfolio Repository for Projects, Activities, Documentation, and Creative Work
 
@@ -16,9 +14,7 @@ Portfolio Repository for Projects, Activities, Documentation, and Creative Work
 Jelyn Faith Almorato Piodena
 
 **Course & Section**  
-<span style="background-color:#c084fc; color:white; padding:6px 12px; border-radius:10px; font-weight:bold;">
-💜 Computer Engineering Student | CE3A
-</span>
+![Course Badge](https://img.shields.io/badge/Computer%20Engineering%20Student-CE3A-a855f7?style=for-the-badge&logo=academia&logoColor=white)
 
 **About Me**  
 Hello! I am Jelyn Faith Almorato Piodena, a Computer Engineering student passionate about creating interactive and innovative systems that blend creativity with technology.  
