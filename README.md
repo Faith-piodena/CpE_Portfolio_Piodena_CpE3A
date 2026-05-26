@@ -142,6 +142,6 @@ This program is a simple calculator that performs basic arithmetic operations. I
 ## Contact
 
 Email: faithpiodena875@gmail.com  
-GitHub: github.com/jelynfaithpiodena  
+GitHub: Faith-piodena  
 Location: Puerto Princesa City, Palawan, Philippines   
  Contact Number: 09380968852 
