@@ -118,12 +118,14 @@ Medusa
 
 ---
 ## Activities
-![Python](https://img.shields.io/badge/Python%20-orange?style=for-the-badge)
+![Python and C](https://img.shields.io/badge/Python%20and%20C-orange?style=for-the-badge)
 ### Description
 This program is a simple calculator that performs basic arithmetic operations. It also includes a feature to determine the age of a car and, based on that age, evaluates its speed to classify it as either slow or fast.
 
-### Calculator
+### Calculator and Basic Mathematics
 <img width="1685" height="808" alt="image" src="https://github.com/user-attachments/assets/c97eef0d-7e47-4963-9793-02e5d21958ca" />
+<img width="1581" height="811" alt="Screenshot 2026-05-27 213507" src="https://github.com/user-attachments/assets/8c97f59d-4604-4a8f-ae0b-fd3970094632" />
+<img width="1306" height="818" alt="Screenshot 2026-05-27 213014" src="https://github.com/user-attachments/assets/2f985dc9-5e36-4984-a53f-1d9c88997960" />
 
 ### Age of car
  <img width="896" height="731" alt="Screenshot 2026-05-27 003357" src="https://github.com/user-attachments/assets/83855e0f-20fe-493b-b891-95ab5c0142a2" />
